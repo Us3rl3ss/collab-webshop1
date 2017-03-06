@@ -1,0 +1,94 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+* {
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+}
+.skin-fontSize-1 {
+	font-size: 30px;
+}
+.skin-fontSize-2 {
+	font-size: 25px;
+}
+.skin-fontSize-3 {
+	font-size: 15px;
+}
+.skin-fontSize-4 {
+	font-size: 18px;
+}
+.skin-fontWeight-1 {
+	font-weight: 800;
+}
+.skin-fontWeight-2 {
+	font-weight: 300;
+}
+.skin-marginBottom-1 {
+	margin-bottom: 40px;
+}
+.skin-marginBottom-2 {
+	margin-bottom: 8px;
+}
+.skin-marginTop-1 {
+	margin-top: 4px;
+}
+.skin-paddingLR-1 {
+	padding: 0 30px;
+}
+.skin-paddingTop-1 {
+	padding-top: 8px;
+}
+.skin-borderTop-1 {
+	border-top: 1px solid #dbdbdb;
+}
+.skin-upfrontMonthlyWidth-1 {
+	width: 145px;
+    margin: 0 auto;
+}
+.skin-tariff {
+	text-transform: uppercase;
+    font-weight: 800;
+    font-size: 12px;
+}
+.skin-opacity-1 {
+	opacity: 0.3;
+}
+.skin-height-1 img {
+	height: 300px;
+}
+.skin-color-palette {
+    position: absolute;
+    right: -10px;
+    margin-top: 20px;
+}
+.skin-color-palette .item {
+    width: 10px;
+    height: 10px;
+    /*background-color: #e6e6e6;*/
+    border-radius: 100%;
+    margin-bottom: 8px;
+    margin: 0 auto;
+} 
+.skin-color-palette .item.activeColor {
+	width: 22px;
+    height: 22px;
+}
+.grid-color-palette {
+	width: 221px;
+	margin: 0 auto;
+}
+.visHidden {
+	visibility: hidden;
+}
+.overrideCss a {
+	color: initial;
+}
+.overrideCss a:hover {
+	text-decoration: none;
+}
+.overflowXHidden {
+	overflow-x: hidden;
+}
+a:hover {
+	cursor: pointer;
+}
