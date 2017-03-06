@@ -1,3 +1,4 @@
+var test;
 var codebook = {
 	deviceList: {
 		0: {
